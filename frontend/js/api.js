@@ -9,7 +9,7 @@
 
 'use strict';
 
-const API_BASE = 'http://localhost:8000';
+const API_BASE = 'https://hackbaroda.onrender.com';
 
 const PIPELINE_STAGES = [
     { id: 'scrape', label: 'Scraping Instagram', icon: 'travel_explore' },
